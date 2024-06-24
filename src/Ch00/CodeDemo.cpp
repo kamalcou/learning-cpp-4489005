@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 00_03 added comment
+// Exercise 00_03 added comment by kamal
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
